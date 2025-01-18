@@ -4,9 +4,7 @@
 
 Пример:
 
-<div oncopy="alert('Содержимое скопировано!')">
-    python httpscan.py
-</div>
+python httpscan.py
 
 
 1. ftp scan
