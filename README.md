@@ -7,11 +7,11 @@
 
 Функции:
 
-1. ftp scan
-2. ssh scan
-3. rdp scan
-4. rtsp scan
-5. telnet scan
-6. http scan
-
+1. ftp scan - ftp сервер файлов (порт: 21)
+2. ssh scan - ssh сервер файлов (порт: 22)
+3. rdp scan - Удаленый Рабочий чтол (порт: 3389)
+4. rtsp scan - Ip Камеры (порт: 554)
+5. telnet scan - telnet сервер (порт: 23)
+6. http scan - web-server (порт: 80)
+7. pjl scan - для принтеров удаленая потключения (порт: 9100)
 Если локалный IP другой изимините в коде
