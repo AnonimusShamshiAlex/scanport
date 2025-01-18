@@ -4,7 +4,7 @@
 
 Прмер:
 
-<h1><p>python httpscan.py</p></h1>
+<p>python httpscan.py</p>
 
 
 1. ftp scan
