@@ -7,6 +7,8 @@
 python httpscan.py
 
 
+Функции:
+
 1. ftp scan
 2. ssh scan
 3. rdp scan
