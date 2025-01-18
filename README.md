@@ -13,3 +13,5 @@
 4. rtsp scan
 5. telnet scan
 6. http scan
+
+Если локалный IP другой изимините в коде
